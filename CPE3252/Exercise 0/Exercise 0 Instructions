@@ -1,0 +1,1 @@
+Develop a worm that operates as a sniffer and forward data packets to the Attacker PC (Sniffer code already given, only needed changes to take in input). Assume that the victim is compromised with the worm. Accordingly, create an socket application/script that will receive the forwarded data packet and  display it on the Attacker's terminal.
