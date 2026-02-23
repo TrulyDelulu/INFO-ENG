@@ -1,0 +1,1 @@
+Perform an attack such that a man-in-the-middle attacker is present to capture the message exchange between the client-server chat application. In this case, victim computers are no longer compromised with worm that operates as sniffer. Utilize arpspoofing.
