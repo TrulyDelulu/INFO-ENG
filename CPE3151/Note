@@ -1,0 +1,1 @@
+This folder contains the code for the final project of Information Engineering 1. This is a simple server-client application that allows simultaneous bidirectional messaging that applies encryption, signing, and verification.
